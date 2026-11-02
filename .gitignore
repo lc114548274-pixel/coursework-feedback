@@ -1,0 +1,11 @@
+.env
+.venv/
+.demo_venv/
+__pycache__/
+.pytest_cache/
+.env.*
+!.env.example
+!.env.ollama.example
+*.zip
+*.7z
+*.rar
